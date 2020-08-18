@@ -1,6 +1,8 @@
 # vue-chrom-plugin
 >vue-chrom-plugin
 
+>[jQuery 版本](https://github.com/front-ends-developers/chrom-plugin-base)
+
 
 ## Usage
 
