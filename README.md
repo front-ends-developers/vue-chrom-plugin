@@ -6,9 +6,8 @@
 
 ## Usage
 
-```bash
-$ vue init kocal/vue-web-extension my-extension  
-$ cd my-extension  
+```bash  
+$ git clone  
 $ npm install 
 $ npm run build  
 ```
@@ -28,3 +27,13 @@ Watch for modifications then run `npm run build`.
 ### `npm run watch:dev`
 
 Watch for modifications then run `npm run build:dev`.
+
+
+## creat new extension
+
+```
+$ vue init kocal/vue-web-extension my-extension  
+$ cd my-extension 
+$ npm install 
+$ npm run build 
+```
