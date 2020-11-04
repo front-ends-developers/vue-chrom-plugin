@@ -6214,10 +6214,10 @@
         { src: n(0), webName: '分享有礼', url: 'http://gicdev.demogic.com/share-config/shareIndex' },
       ],
       ee = [
-        { src: n(0), webName: 'GIC-WEB', url: 'http://hope.demogic.com/gic-web/#/login' },
+        { src: n(0), webName: 'GIC-WEB', url: 'https://hope.demogic.com/gic-web/#/login' },
         { src: n(3), webName: '好办 2.0 web', url: 'http://www.demosom.com/haoban-web/#/login' },
         { src: n(3), webName: '好办3.0 web', url: 'https://www.demosom.com/haoban-3/#/login' },
-        { src: n(0), webName: '老运维', url: 'http://hope.demogic.com/gic-operations/manage_list' },
+        { src: n(0), webName: '老运维', url: 'https://hope.demogic.com/gic-operations/manage_list' },
         { src: n(0), webName: '新运维', url: 'https://hope.demogic.com/operation-platform/#/' },
         { src: n(0), webName: '分享有礼', url: 'http://hope.demogic.com/share-config/shareIndex' },
       ],
